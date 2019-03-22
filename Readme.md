@@ -8,7 +8,7 @@
 
 分为如下部分
 
-* [基本概念][https://github.com/WalterLsaacson/DockerNotes/blob/master/%E8%AE%A4%E8%AF%86docker.md]
+* [基本概念](https://github.com/WalterLsaacson/DockerNotes/blob/master/%E8%AE%A4%E8%AF%86docker.md)
   * 了解镜像的组成架构
   * 如何获取镜像
   * 管理本地镜像
